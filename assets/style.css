@@ -522,3 +522,39 @@ body {
     border-radius: 0px;
     background: url(arrow-down.png);
 }
+
+.categories-btn {
+    position: absolute;
+    height: 48px;
+    width: 104px;
+    left: 1092px;
+    top: 9px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories-btn .cart {
+    height: 48px;
+    width: 48px;
+    left: 0px;
+    top: 0px;
+    border-radius: 30px;
+    
+    background: url(Cart.png);
+}
+
+.categories-btn .profile {
+    position: absolute;
+    height: 48px;
+    width: 48px;
+    left: 56px;
+    top: 0px;
+    border-radius: 30px;
+
+    background: url(profile.png);
+
+}
