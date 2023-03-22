@@ -728,3 +728,288 @@ body {
     border-radius: 0px;
 
 }
+
+.destination {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+}
+
+.destination .view-all-btn .text {
+    position: absolute;
+    width: 114.7px;
+    height: 71px;
+    right: 125.92px;
+    top: 1210px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    color: #4475F2;
+    mix-blend-mode: normal;
+}
+
+.destination .view-all-btn .icon {
+    position: absolute;
+    height: 12px;
+    width: 6px;
+    left: 1313.732421875px;
+    top: 1240.904296875px;  
+}
+
+.destination .favorite {
+    position: absolute;
+    width: 220px;
+    height: 27px;
+    left: 122px;
+    top: 1193px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.095em;
+    color: #4475F2;
+}
+
+.destination .heading_favorite {
+    position: absolute;
+    width: 784px;
+    height: 54px;
+    right: 534px;
+    top: 1233px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: -0.01em;
+    color: #14183E;
+    mix-blend-mode: normal;
+}
+
+.destination .places .bromo .image{
+    position: absolute;
+    height: 392.36492919921875px;
+    width: 279.52886962890625px;
+    left: 1038.4716796875px;
+    top: 1333.2734375px;
+    border-radius: 8px;
+    background: url(Bromo.png)
+}
+
+.destination .places .bromo .text-background {
+    position: absolute;
+    width: 149.94px;
+    height: 76.18px;
+    right: 251.59px;
+    top: 1649.86px;
+    border-radius: 0px 6px 0px 0px;
+    background-color: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(5px);
+}
+
+.destination .places .bromo .text1 {
+    position: absolute;
+    width: 94.25px;
+    height: 59.09px;
+    right: 279.01px;
+    top: 1648.65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #042521;
+    mix-blend-mode: normal;
+}
+
+.destination .places .bromo .text2 {
+    position: absolute;
+    width: 94.25px;
+    height: 59.09px;
+    right: 279.01px;
+    top: 1669.65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #80918E;
+    mix-blend-mode: normal;
+}
+
+.destination .places .kawah .image{
+    position: absolute;
+    width: 278.46px;
+    height: 392.36px;
+    right: 428.2px;
+    top: 1333.27px;
+    
+    background: #C4C4C4;
+    border-radius: 8px;
+    background: url("Kawah\ Ijen.png")
+}
+
+.destination .places .kawah .text-background {
+    position: absolute;
+    width: 149.37px;
+    height: 76.18px;
+    right: 557.3px;
+    top: 1650.94px;
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 0px 6px 0px 0px;
+}
+
+.destination .places .kawah .text1 {
+    position: absolute;
+    width: 90.69px;
+    height: 59.09px;
+    right: 593.1px;
+    top: 1648.65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #042521;
+    mix-blend-mode: normal;
+}
+
+.destination .places .kawah .text2 {
+    position: absolute;
+    width: 90.69px;
+    height: 59.09px;
+    right: 593.1px;
+    top: 1669.65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #80918E;
+    mix-blend-mode: normal;
+}
+
+.destination .places .labuan .image{
+    position: absolute;
+    width: 278.46px;
+    height: 392.36px;
+    right: 734.4px;
+    top: 1333.27px;
+
+    background: #C4C4C4;
+    border-radius: 8px;
+    background: url("Labuan.png")
+}
+
+.destination .places .labuan .text-background {
+    position: absolute;
+    width: 149.37px;
+    height: 76.18px;
+    right: 863.5px;
+    top: 1649.86px;
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 0px 6px 0px 0px;
+}
+
+.destination .places .labuan .text1 {
+    position: absolute;
+    width: 106.69px;
+    height: 45.71px;
+    right: 883.77px;
+    top: 1656.27px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #042521;
+    mix-blend-mode: normal;
+}
+
+.destination .places .labuan .text2 {
+    position: absolute;
+    width: 106.69px;
+    height: 45.71px;
+    right: 883.77px;
+    top: 1677.27px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #80918E;
+    mix-blend-mode: normal;
+}
+
+.destination .places .raja .image{
+    position: absolute;
+    width: 278.46px;
+    height: 392.36px;
+    right: 1039.54px;
+    top: 1333.27px;
+
+    background: #C4C4C4;
+    border-radius: 8px;
+    background: url("Raja.png")
+}
+
+.destination .places .raja .text-background {
+    position: absolute;
+    width: 149.37px;
+    height: 76.18px;
+    right: 1168.63px;
+    top: 1649.86px;
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 0px 6px 0px 0px;
+}
+
+.destination .places .raja .text1 {
+    position: absolute;
+    width: 104.56px;
+    height: 59.09px;
+    right: 1194.24px;
+    top: 1648.65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #042521;
+    mix-blend-mode: normal;
+}
+
+.destination .places .raja .text2 {
+    position: absolute;
+    width: 104.56px;
+    height: 59.09px;
+    right: 1194.24px;
+    top: 1669.65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #80918E;
+    mix-blend-mode: normal;
+}
