@@ -5,11 +5,13 @@ body {
     background: #FFFFFF;
 }
 .Navbar {
-    position: absolute;
+    position: fixed;
     width: 1440px;
     height: 144px;
     left: 0px;
     top: 0px;
+    z-index: 1;
+    background-color: white;
 }
 .container-1 {
     display: flex;
@@ -668,4 +670,61 @@ body {
     font-size: 17px;
     line-height: 21px;
     color: #686D77;
+}
+
+.partner-logo .partner1 {
+    position: absolute;
+    height: 144.9021453857422px;
+    width: 144.9021453857422px;
+    left: 125px;
+    top: 876.833984375px;
+}
+
+.partner-logo .partner2 {
+    position: absolute;
+    height: 122.60950469970703px;
+    width: 192.67208862304688px;
+    left: 355.728515625px;
+    top: 889.09521484375px;
+    mix-blend-mode: luminosity;
+}
+
+.partner-logo .partner3 {
+    position: absolute;
+    height: 35.66822052001953px;
+    width: 180.5703582763672px;
+    left: 925.3056640625px;
+    top: 933.68017578125px;
+    mix-blend-mode: luminosity;
+}
+
+.partner-logo .partner4 {
+    position: absolute;
+    width: 104.78px;
+    height: 23.41px;
+    left: 1216.22px;
+    top: 938.14px;
+    mix-blend-mode: luminosity;
+}
+
+.partner-logo .shadow {
+    position: absolute;
+    height: 95.85833740234375px;
+    width: 268.62628173828125px;
+    left: 604.2919921875px;
+    top: 905.814453125px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02), 0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852), 0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481), 0px 20px 13px rgba(0, 0, 0, 0.01), 0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185), 0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481);
+    border-radius: 10px;
+}
+
+.partner-logo .partner5 {
+    position: absolute;
+    height: 180.5703582763672px;
+    width: 180.5703582763672px;
+    left: 648.876953125px;
+    top: 859px;
+    border-radius: 0px;
+
 }
