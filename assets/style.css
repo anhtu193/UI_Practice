@@ -153,7 +153,7 @@ body {
     left: 0;
     height: 20px;
     width: 20px;
-    background: url("language.png ");
+    background: url("language.png");
 }
 
 .language-box {
@@ -189,4 +189,113 @@ body {
     border-radius: 0px;
 
     background: url(arrow.png);
+}
+
+.location {
+    position: absolute;
+    height: 48px;
+    width: 258px;
+    left: 936px;
+    top: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+}
+
+.location-btn {
+    position: absolute;
+    height: 48px;
+    width: 48px;
+    left: 0px;
+    top: 0px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    /* Light/Secondary */
+
+    background: #E3EBFD;
+    border-radius: 30px;
+
+}
+
+.location-btn-icon {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 14px;
+    top: 14px;
+    border-radius: 0px;
+
+    background: url("location.png");
+}
+
+.location-text {
+    position: absolute;
+    height: 37px;
+    width: 198px;
+    left: 60px;
+    top: 5.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 2px;
+}
+
+.location-text .text-1 {
+    height: 15px;
+    width: 37px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    color: #9A9EA6;
+}
+
+.location-text .text-2 {
+    position: absolute;
+    height: 20px;
+    width: 198px;
+    left: 0px;
+    top: 17px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.location-text .text-2 .text {
+    width: 174px;
+    height: 20px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #4475F2;
+
+}
+
+.location-text .text-2 .icon {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 178px;
+    top: 0px;
+    border-radius: 0px;
+
+    background: url(arrow_blue.png);
 }
