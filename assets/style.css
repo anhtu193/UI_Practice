@@ -4,6 +4,7 @@ body {
     height: 7557px;
     background: #FFFFFF;
 }
+
 .Navbar {
     position: fixed;
     width: 1440px;
@@ -13,6 +14,7 @@ body {
     z-index: 1;
     background-color: white;
 }
+
 .container-1 {
     display: flex;
     flex-direction: row;
@@ -27,6 +29,7 @@ body {
     top: 0px;
 
 }
+
 .seperator {
     position: absolute;
     width: 1440px;
@@ -35,6 +38,7 @@ body {
     top: 77px;
     border: 1px solid #DFDFE0;
 }
+
 .logo {
     position: absolute;
     display: flex;
@@ -1013,3 +1017,150 @@ body {
     color: #80918E;
     mix-blend-mode: normal;
 }
+
+.reservation .reservation_progress {
+    position: absolute;
+    width: 220px;
+    height: 27px;
+    left: 118px;
+    top: 1879px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.095em;
+    color: #4475F2;
+}
+
+.reservation .heading_reservation {
+    position: absolute;
+    width: 548.61px;
+    height: 139.57px;
+    left: 118px;
+    top: 1915.09px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 63px;
+    color: #14183E;
+}
+
+.reservation .reserve_pic {
+    position: absolute;
+    width: 699.7px;
+    height: 886.79px;
+    left: 709.3px;
+    top: 1765.4px;
+}
+
+.reservation .value1 .step1 {
+    position: absolute;
+    width: 50.46px;
+    height: 51.53px;
+    left: 118px;
+    top: 2092.24px;
+}
+
+.reservation .value1 .step2 {
+    position: absolute;
+    width: 258px;
+    height: 21px;
+    left: 191px;
+    top: 2088px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+
+.reservation .value1 .step3 {
+    position: absolute;
+    width: 351.07px;
+    height: 42.94px;
+    left: 191.01px;
+    top: 2113.71px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+
+.reservation .value2 .step1 {
+    position: absolute;
+    width: 50.46px;
+    height: 51.53px;
+    left: 118px;
+    top: 2212.48px;
+}
+
+.reservation .value2 .step2 {
+    position: absolute;
+    width: 312px;
+    height: 22px;
+    left: 191px;
+    top: 2208px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+
+.reservation .value2 .step3 {
+    position: absolute;
+    width: 351.07px;
+    height: 42.94px;
+    left: 191.01px;
+    top: 2233.95px;  
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+
+.reservation .value3 .step1 {
+    position: absolute;
+    width: 50.46px;
+    height: 51.53px;
+    left: 118px;
+    top: 2332.72px;
+}
+
+.reservation .value3 .step2 {
+    position: absolute;
+    width: 272.7px;
+    height: 21.47px;
+    left: 191.01px;
+    top: 2328.43px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+
+.reservation .value3 .step3 {
+    position: absolute;
+    width: 351.07px;
+    height: 42.94px;
+    left: 191.01px;
+    top: 2355.27px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 124.5%;
+    color: #5E6282;
+
+}
+
