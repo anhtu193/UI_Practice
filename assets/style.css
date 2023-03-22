@@ -1049,8 +1049,8 @@ body {
 
 .reservation .reserve_pic {
     position: absolute;
-    width: 699.7px;
-    height: 886.79px;
+    width: 639.7px;
+    height: 776.79px;
     left: 709.3px;
     top: 1765.4px;
 }
@@ -1164,3 +1164,181 @@ body {
 
 }
 
+.map .map-subheading {
+    position: absolute;
+    width: 220.37px;
+    height: 27px;
+    left: 612.82px;
+    top: 2568px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 26px;
+
+    text-align: center;
+    letter-spacing: 0.095em;
+
+    color: #4737FF;
+}
+
+.map .heading_map {
+    position: absolute;
+    height: 62px;
+    left: 17.17%;
+    right: 17.21%;
+    top: 2614px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 62px;
+    letter-spacing: -1px;
+    color: #151D21;
+}
+
+.map .desc {
+    position: absolute;
+    width: 820px;
+    height: 64px;
+    left: 281.27px;
+    top: 2694px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'liga' off;
+    color: #18191F;
+}
+
+.map .world_map {
+    position: absolute;
+    height: 405px;
+    left: 8.47%;
+    right: 8.47%;
+    top: 2803px;
+    border-radius: 8px;
+}
+
+.map .feature1 {
+    height: 88px;
+    width: 360px;
+}
+
+.map .feature1 .feature1_icon {
+    position: absolute;
+    height: 48px;
+    left: 8.47%;
+    right: 88.1%;
+    top: 3265px;
+
+    background: url(feature1.png);
+}
+
+.map .feature1 .feature1_content {
+    position: absolute;
+    height: 30px;
+    left: 13.04%;
+    right: 71.53%;
+    top: 3263px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.55px;
+    color: #18214D;
+}
+
+.map .feature1 .feature1_desc {
+    position: absolute;
+    height: 52px;
+    left: 13.04%;
+    right: 66.53%;
+    top: 3299px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #3E4462;
+}
+
+.map .feature2 .feature2_icon {
+    position: absolute;
+    height: 48px;
+    left: 37.63%;
+    right: 58.94%;
+    top: 3265px;
+    background: url(feature2.png);
+}
+
+.map .feature2 .feature2_content {
+    position: absolute;
+    height: 30px;
+    left: 42.21%;
+    right: 42.44%;
+    top: 3263px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.55px;
+    color: #18214D;
+}
+
+.map .feature2 .feature2_desc {
+    position: absolute;
+    height: 52px;
+    left: 42.2%;
+    right: 37.37%;
+    top: 3299px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #3E4462;
+}
+
+.map .feature3 .feature3_icon {
+    position: absolute;
+    height: 48px;
+    left: 66.53%;
+    right: 30.04%;
+    top: 3265px;
+    background: url(feature3.png);
+}
+
+.map .feature3 .feature3_content {
+    position: absolute;
+    height: 30px;
+    left: 71.08%;
+    right: 13.9%;
+    top: 3263px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.55px;
+    color: #18214D;
+}
+
+.map .feature3 .feature3_desc {
+    position: absolute;
+    height: 52px;
+    left: 71.1%;
+    right: 8.47%;
+    top: 3299px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #3E4462;
+}
