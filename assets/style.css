@@ -299,3 +299,226 @@ body {
 
     background: url(arrow_blue.png);
 }
+
+.container-2 {
+    position: absolute;
+    height: 66px;
+    width: 1196px;
+    left: 122px;
+    top: 78px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories {
+    position: absolute;
+    height: 18px;
+    width: 1092px;
+    left: 0px;
+    top: 24px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #9A9EA6;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+}
+
+.categories .Item1 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+    width: 77px;
+    height: 18px;   
+}
+
+.categories .Icon1 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 61px;
+    top: 1px;
+    border-radius: 0px;
+    
+    background: url(arrow-down.png);
+}
+
+.categories .Item2 {
+    position: absolute;
+    height: 18px;
+    width: 65px;
+    left: 117px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon2 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 49px;
+    top: 1px;
+    border-radius: 0px;
+
+    background: url(arrow-down.png);
+}
+
+.categories .Item3 {
+    position: absolute;
+    height: 18px;
+    width: 69px;
+    left: 222px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon3 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 53px;
+    top: 1px;
+    border-radius: 0px;
+    
+    background: url(arrow-down.png);
+}
+.categories .Item4 {
+    position: absolute;
+    height: 18px;
+    width: 86px;
+    left: 331px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon4 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 70px;
+    top: 1px;
+    border-radius: 0px;    
+    background: url(arrow-down.png);
+}
+
+.categories .Item5 {
+    position: absolute;
+    height: 18px;
+    width: 74px;
+    left: 457px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon5 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 58px;
+    top: 1px;
+    border-radius: 0px;
+    background: url(arrow-down.png);
+}
+
+.categories .Item6 {
+    position: absolute;
+    height: 18px;
+    width: 76px;
+    left: 571px;
+    top: 0px;
+    border-radius: 0px;    
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon6 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 60px;
+    top: 1px;
+    border-radius: 0px;
+    background: url(arrow-down.png);
+}
+
+.categories .Item7 {
+    position: absolute;
+    height: 18px;
+    width: 87px;
+    left: 687px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon7 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 71px;
+    top: 1px;
+    border-radius: 0px;
+    background: url(arrow-down.png);
+}
+
+.categories .Item8 {
+    position: absolute;
+    height: 18px;
+    width: 58px;
+    left: 814px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    padding: 0px;
+}
+
+.categories .Icon8 {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 42px;
+    top: 1px;
+    border-radius: 0px;
+    background: url(arrow-down.png);
+}
