@@ -1,0 +1,192 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 7557px;
+    background: #FFFFFF;
+}
+.Navbar {
+    position: absolute;
+    width: 1440px;
+    height: 144px;
+    left: 0px;
+    top: 0px;
+}
+.container-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+    
+    position: absolute;
+    width: 1194px;
+    height: 72px;
+    left: 123px;
+    top: 0px;
+
+}
+.seperator {
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 77px;
+    border: 1px solid #DFDFE0;
+}
+.logo {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+    width: 119px;
+    height: 28px;
+    left: 0px;
+    top: 22px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.logo-img {
+    position: absolute;
+    height: 28px;
+    width: 28px;
+    left: 0;
+    top: 0px;
+    background: url("icon-512 2.png");
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.logo-content {
+    position: absolute;
+    height: 23px;
+    width: 91px;
+    left: 37px;
+    top: 2.5px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.searchBox {
+    position: absolute;
+    left: 159px;
+    top: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px 0px 22px;
+    gap: 10px;
+
+    width: 530px;
+    height: 48px;
+
+    /* Light/Neutral Secondary */
+
+    background: #F0F1F2;
+    border-radius: 30px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+}
+
+.searchIcon {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 22px;
+    top: 16px;
+    background: url("search-normal.png");
+}
+
+.searchText {
+    position: absolute;
+    letter-spacing: 0em;
+    height: 15px;
+    width: 120px;
+    left: 48px;
+    top: 16.5px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #9A9EA6;
+}
+
+.language {
+    position: absolute;
+    height: 20px;
+    width: 167px;
+    left: 729px;
+    top: 26px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;    
+}
+
+.language-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background: url("language.png ");
+}
+
+.language-box {
+    position: absolute;
+    height: 18px;
+    width: 119px;
+    left: 26px;
+    top: 1px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    /* Light/Text */
+    
+    color: #9A9EA6;
+
+}
+
+.language-choose-arrow {
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 151px;
+    top: 2px;
+    border-radius: 0px;
+
+    background: url(arrow.png);
+}
