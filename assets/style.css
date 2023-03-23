@@ -1431,3 +1431,37 @@ body {
     color: #4475F2;
     box-sizing: border-box;
 }
+
+.blog .blog-view-all-btn {
+    position: absolute;
+    left: 83.29%;
+    right: 8.47%;
+    top: 46.82%;
+    bottom: 52.24%;
+}
+
+.blog .blog-view-all-text {
+    position: absolute;
+    width: 114.7px;
+    height: 71px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    color: #4475F2;
+    mix-blend-mode: normal;
+}
+
+.blog .blog-view-all-icon {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    left: 114.35px;
+    top: 30.9px;
+
+}
