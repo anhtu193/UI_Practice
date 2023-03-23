@@ -646,13 +646,14 @@ body {
     background-color: #E5EDFF;
 }
 
-.cta .text {
+.cta .text a {
     position: absolute;
     height: 20px;
     width: 163.05882263183594px;
-    left: 125px;
+    left: 124px;
     padding: 20px 17.94px;
     top: 680px;
+    text-decoration: none;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -661,10 +662,10 @@ body {
     color: #FFFFFF;
     border-radius: 10px;
     transition: 0.5s;
-    cursor:pointer;
+    cursor:pointer; 
 }
 
-.cta .text:hover {
+.cta .text a:hover {
     color: #4475F2;
     background-color: #FFFFFF;
 }
