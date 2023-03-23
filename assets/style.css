@@ -646,13 +646,19 @@ body {
     background-color: #E5EDFF;
 }
 
+.cta {
+    position: absolute;
+    left: 125px;
+    top: 680px;
+    transition: 0.5s;
+}
 .cta .text a {
     position: absolute;
+    top:0px;
+    left: 0px;
     height: 20px;
     width: 163.05882263183594px;
-    left: 124px;
     padding: 20px 17.94px;
-    top: 680px;
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
@@ -665,17 +671,15 @@ body {
     cursor:pointer; 
 }
 
-.cta .text a:hover {
+.cta:hover, .cta .text a:hover {
     color: #4475F2;
     background-color: #FFFFFF;
+    transform: scale(1.07);
 }
 
 .cta .background {
-    position: absolute;
     width: 198px;
     height: 60px;
-    left: 125px;
-    top: 680px;
     background: #4475F2;
     box-shadow: 0px 20px 35px rgba(65, 90, 152, 0.4);
     border-radius: 10px;
@@ -1425,5 +1429,5 @@ body {
     line-height: 26px;
     letter-spacing: 0.095em;
     color: #4475F2;
-
+    box-sizing: border-box;
 }
