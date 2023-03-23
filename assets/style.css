@@ -1395,3 +1395,35 @@ body {
 .container-2 .categories .Item8:hover{
     color: #4475F2;
 }
+
+.blog .heading_blog {
+    position: absolute;
+    width: 784px;
+    height: 54px;
+    right: 534px;
+    top: 3561px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: -0.01em;
+    color: #14183E;
+    mix-blend-mode: normal;
+}
+
+.blog .blog_subheading {
+    position: absolute;
+    width: 257px;
+    height: 27px;
+    left: 122px;
+    top: 3521px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.095em;
+    color: #4475F2;
+
+}
