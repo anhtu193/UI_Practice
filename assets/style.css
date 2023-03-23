@@ -1716,3 +1716,130 @@ body {
     top: 159px;
     padding: 35px 37px 35px 37px;
 }
+
+.test .test-subheading {
+    position: absolute;
+    width: 289px;
+    height: 27px;
+    left: 576px;
+    top: 4567px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    color: #4737FF;
+}
+
+.test .test-heading {
+    position: absolute;
+    height: 62px;
+    width: 960px;
+    left: 17.22%;
+    right: 17.15%;
+    top: 4613px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 56px;
+    line-height: 62px;
+    letter-spacing: -1px;
+    color: #151D21;
+}
+
+.test .test-desc {
+    position: absolute;
+    width: 820px;
+    height: 64px;
+    left: 281.27px;
+    top: 4693px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    font-feature-settings: 'liga' off;
+    color: #18191F;
+}
+
+.test .test-content .person1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 35px;
+    gap: 30px;
+    position: absolute;
+    width: 368px;
+    height: 452.01px;
+    left: 952px;
+    top: 4844px;
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.07), 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198), 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+    border-radius: 5px;
+}
+
+.test-content .person1 .content {
+    position: absolute;
+    height: 193.0136260986328px;
+    width: 228px;
+    left: 70px;
+    top: 219px;
+    border-radius: 0px;
+
+}
+.test-content .person1 .desc {
+    width: 228px;
+    height: 78px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
+.test-content .person1 .rating {
+    position: absolute;
+    height: 22.013620376586914px;
+    width: 130.06809997558594px;
+    left: 48.9658203125px;
+    top: 93px;
+    border-radius: 0px;
+
+}
+
+.test-content .person1 .link {
+    position: absolute;
+    height: 24px;
+    width: 83px;
+    left: 72.5px;
+    top: 130.013671875px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #23A6F0;
+}
+
+.test-content .person1 h6 {
+    position: absolute;
+    height: 24px;
+    width: 157px;
+    left: 35.5px;
+    top: 169.013671875px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}
