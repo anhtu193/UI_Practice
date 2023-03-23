@@ -671,10 +671,10 @@ body {
     cursor:pointer; 
 }
 
-.cta:hover, .cta .text a:hover {
+.cta .text a:hover {
     color: #4475F2;
     background-color: #FFFFFF;
-    transform: scale(1.07);
+    transform: scale(1.1);
 }
 
 .cta .background {
