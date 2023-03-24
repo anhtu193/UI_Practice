@@ -2362,3 +2362,359 @@ body {
     top: 3px;
     border-radius: 0px;
 }
+
+.footer {
+    position: absolute;
+    height: 487px;
+    width: 1440px;
+    left: 0px;
+    bottom: 0px;
+    background: #FFFFFF;
+}
+
+.footer .left {
+    position: absolute;
+    height: 338px;
+    width: 483px;
+    left: 124px;
+    top: 56px;
+    border-radius: 0px;
+}
+
+.footer .left .introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 483px;
+    height: 166px;
+}
+
+.footer .left .introduction .logo {
+    height: 32px;
+    width: 32px;
+    left: 0px;
+    top: 0px;
+}
+
+.footer .left .introduction .name {
+    position: absolute;
+    height: 30px;
+    width: 108px;
+    left: 0px;
+    top: 48px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.footer .left .introduction p {
+    position: absolute;
+    width: 483px;
+    height: 72px;
+    top: 94px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9A9EA6;
+}
+
+.footer .left .introduction p strong {
+    color:#4475F2;
+}
+
+.footer .left .contact {
+    position: absolute;
+    height: 140px;
+    width: 220px;
+    left: 0px;
+    top: 198px;
+    border-radius: 0px;
+}
+
+.footer .left .contact .tel .text {
+    position: absolute;
+    height: 18px;
+    width: 120px;
+    left: 26px;
+    top: 1px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #9A9EA6;
+}
+
+.footer .left .contact .mail {
+    position: absolute;
+    height: 20px;
+    width: 165px;
+    left: 0px;
+    top: 40px;
+}
+
+.footer .left .contact .mail .text {
+    position: absolute;
+    height: 18px;
+    width: 139px;
+    left: 26px;
+    top: 1px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #9A9EA6;
+}
+
+.footer .left .contact .address {
+    position: absolute;
+    height: 20px;
+    width: 220px;
+    left: 0px;
+    top: 80px;
+}
+
+.footer .left .contact .address .text {
+    position: absolute;
+    height: 18px;
+    width: 200px;
+    left: 26px;
+    top: 1px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #9A9EA6;
+}
+
+.footer .left .contact .fax {
+    position: absolute;
+    height: 20px;
+    width: 138px;
+    left: 0px;
+    top: 120px;
+}
+
+.footer .left .contact .fax .text {
+    position: absolute;
+    height: 18px;
+    width: 120px;
+    left: 26px;
+    top: 1px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #9A9EA6;
+}
+
+.footer .menu {
+    position: absolute;
+    height: 293px;
+    width: 583px;
+    left: 735px;
+    top: 56px;
+}
+
+.footer .menu1 {
+    position: absolute;
+    height: 293px;
+    width: 69.59491729736328px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.footer .menu1 .header {
+    width: 71px;
+    height: 23px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.footer .menu1 .item {
+    position: absolute;
+    height: 246px;
+    width: 95px;
+    left: 0px;
+    top: 47px;
+}
+
+.footer .menu1 .item p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #9A9EA6;
+    margin-bottom: 20px;
+}
+
+.footer .menu2 {
+    position: absolute;
+    height: 293px;
+    width: 88.9902114868164px;
+    left: 222.48px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+
+.footer .menu2 .header {
+    width: 73px;
+    height: 23px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.footer .menu2 .item {
+    position: absolute;
+    height: 246px;
+    width: 85px;
+    left: 0px;
+    top: 47px;
+    border-radius: 0px;
+}
+
+.footer .menu2 .item p {
+    width: 85px;
+    height: 18px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #9A9EA6;
+    margin-bottom: 20px;
+}
+
+.footer .menu3 {
+    position: absolute;
+    height: 293px;
+    width: 88.9902114868164px;
+    left: 444.96px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.footer .menu3 .header {
+    width: 73px;
+    height: 23px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.footer .menu3 .item {
+    position: absolute;
+    height: 246px;
+    width: 85px;
+    left: 0px;
+    top: 47px;
+    border-radius: 0px;
+}
+
+.footer .menu3 .item p {
+    width: 85px;
+    height: 18px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #9A9EA6;
+    margin-bottom: 20px;
+}
+
+.footer .bottombar {
+    position: absolute;
+    height: 18px;
+    width: 1194px;
+    left: 124px;
+    top: 421px;
+}
+
+.footer .bottombar .text {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #9A9EA6;
+}
+
+.footer .bottombar .item {
+    position: absolute;
+    height: 18px;
+    width: 630px;
+    left: 607px;
+    top: 0px;
+}
+
+.footer .bottombar .item p {
+    height: 18px;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #9A9EA6;
+    margin-right: 40px;
+}
+.footer .bottombar .item .annoy1{
+    width: 90px;
+}
+.footer .bottombar .item .annoy2{
+    width: 49px;
+}
+.footer .bottombar .item .annoy3{
+    width: 100px;
+}
+.footer .bottombar .item .annoy4{
+    width: 58px;
+}
+.footer .bottombar .item .annoy5{
+    width: 139px;
+    margin-right: 0px;
+}
